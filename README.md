@@ -12,7 +12,7 @@
   <a href="https://twitter.com/murshidm" target="_blank">
     <img src="https://img.shields.io/twitter/follow/murshidm?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/ali-khan/" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-khan-jalbani?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/c/butkadah" target="_blank">
