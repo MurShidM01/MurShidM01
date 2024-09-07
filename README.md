@@ -1,6 +1,6 @@
 <!-- Centered header and introduction with monospaced font -->
 <h1 align="center" style="font-family: monospace;">Hi 👋, I'm Ali Khan</h1>
-<h3 align="center" style="font-family: monospace;">A Passionate Python Developer || Web Developer from Sindh, Pakistan</h3>
+<h3 align="center" style="font-family: monospace;">A Passionate Python Developer || FrontEnd Developer from Sindh, Pakistan</h3>
 
 <!-- Profile views badge -->
 <p align="center"> 
