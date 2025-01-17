@@ -53,7 +53,7 @@ const ali = {
         web: ["JavaScript", "Django"],
         other: ["WordPress", "Android Studio"]
     },
-    portfolio: "http://alieduflare.freewebhostmost.com",
+    portfolio: "https://murshidm01.github.io/Portfolio-Website-Neomorphism/",
     blog: "http://aliedx.blogspot.com"
 };
 ```
